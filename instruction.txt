@@ -1,1 +1,0 @@
-this project contain many thing about js framework , and some application for each framework
